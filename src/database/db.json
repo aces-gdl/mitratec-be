@@ -1,0 +1,60 @@
+[
+  {
+    "Id": "1104e030-101e-4e90-be18-d2c9eed6c027",
+    "Name": "Adidas Metalbone 2.0",
+    "Description": "Padel racket Adidas Metalbone 2.0 by Ale Galan  2023",
+    "Price": 319.99
+  },
+  {
+    "Id": "45bdd500-8dd6-409f-b6d1-fefd353dab33",
+    "UpdatedOn": "2024-02-15T07:00:37.790Z",
+    "Name": "Hornet Balls",
+    "Description": "Hornet padel balls, box with 6 balls ",
+    "Price": 199.99
+  },
+  {
+    "Id": "1cf25f5f-1472-45e5-855c-7fef37aecc89",
+    "CreatedOn": "2024-02-15T05:03:33.476Z",
+    "UpdatedOn": "2024-02-15T05:03:33.476Z",
+    "Name": "Padel backpak NOX",
+    "Description": "Nox Backpack for 3 padel raquest",
+    "Price": "129.50"
+  },
+  {
+    "Id": "5e00e9bd-16e7-40f0-9e37-0b4df530a847",
+    "UpdatedOn": "2024-02-15T07:09:28.180Z",
+    "Name": "Tennis Nike Jordan IV",
+    "Description": "Tennis Nike Jordan IV",
+    "Price": "99.99"
+  },
+  {
+    "Id": "5f29adda-73b0-4da4-9d2e-d0218316d7ce",
+    "UpdatedOn": "2024-02-15T07:22:53.160Z",
+    "Name": "Hornet Balls Special;",
+    "Description": "Hornet padel balls, box with 3 balls",
+    "Price": "199.99"
+  },
+  {
+    "Id": "e9fb82f3-4264-43ef-af23-91e7c7d9a2ca",
+    "UpdatedOn": "2024-02-15T07:22:46.134Z",
+    "Name": "Wilson Balls ",
+    "Description": "Wilson padel balls, box with 9 Ball",
+    "Price": "199.99"
+  },
+  {
+    "Id": "fead39d2-c800-4185-b77c-276323ad822f",
+    "CreatedOn": "2024-02-15T07:27:34.207Z",
+    "UpdatedOn": "2024-02-15T07:27:34.207Z",
+    "Name": "Kuikma Maxi Sanchez",
+    "Description": "Padel signed by Maxi Sanchez",
+    "Price": "499.87"
+  },
+  {
+    "Id": "72fa9c3a-a1cd-466f-aafb-86e40037b40b",
+    "CreatedOn": "2024-02-15T07:28:59.663Z",
+    "UpdatedOn": "2024-02-15T07:28:59.663Z",
+    "Name": "NOX AT10 by Tapia",
+    "Description": "NOX AT10 by Tapia 2023",
+    "Price": "145.50"
+  }
+]
